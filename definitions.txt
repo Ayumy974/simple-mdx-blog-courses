@@ -1,1 +1,8 @@
 Gatsby, ou GatsbyJS, est un générateur de site statique construit avec ReactJS et alimenté par GraphQL. Gatsby permet à quiconque de créer des sites Web et des applications riches en fonctionnalités et attrayantes. Gatsby récupère des données pour votre site à partir de diverses sources, notamment des sites Web existants, des appels API et des fichiers via GraphQL, et construit le site statique en fonction des réglages de configuration que vous avez spécifiés.
+
+boilerplate: Pour faire simple c’est un modèle HTML, CSS, Javascript permettant de prototyper rapidement des pages web.
+
+Le terme “boilerplate” était initialement utilisé par les juristes pour les contrats ou les courriers types qu’ils pouvaient rédiger et qui reprenaient toujours la même structure et un contenu proche qu’il suffisait de personnaliser. Dans la conception de services web, c’est un peu la même chose, les éléments de bases sont toujours les même, c’est leur agencement qui changent.
+
+Les plugins:
+Via the sharp library, nous sommes désormais capable de créer des images optimisées, puis d'accéder à ces images via Graph QL avec les requêtes. On peut aussi parser MDX (syntaxe) et aussi y accéder via graph QL
